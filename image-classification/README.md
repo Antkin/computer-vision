@@ -1,0 +1,3 @@
+# Image Classification
+## In part 1 we classify images from a dataset of flow images, the images are trained on an SVM and RF classifier. To execute this notebook the flower_subset.npz file must be placed in the same folder as the code.
+## In part 2 we classify MNIST digits using a CNN. Pytorch was used to create and train the CNN. This part does not require any additional files, the MNIST dataset is downloaded from the web.
